@@ -1,0 +1,21 @@
+bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+user : My name is Fantan
+bot : - Hello! your name has been stored. What is your age?
+user : l am 22 years old
+bot : - okay. your age has been stored. Which city do you live in?
+user : Ruwa
+bot : - good to know. how may i assist you then?
+user : l am shivering
+bot : - This is a symptom of fever, you should take a tablet of crocin after you have your meal.
+user : Okay thanks l will take Crocin and advise
+bot : - let me know if you are feeling better after having crocin.
+user : l am still in pain
+bot : - okay, did you get hurt, or it is a suddern paining.
+user : Nothing changed after taking crocin
+bot : - Ok, its not just a normal fever, you should consult a doctor.
+user : Yes l want to see a doctor
+bot : - all doctors are attending patients. we shall revert to your request soon. Do you want to book an appointment?
+user : Yes an appointment
+bot : - yes please state time and doctor's name in the following format; 'Patient Name: Date: Doctor: Hospital:'
+user : fantan: tomorrow; tk
+bot : - yes please state time and doctor's name in the following format; 'Patient Name: Date: Doctor: Hospital:'
